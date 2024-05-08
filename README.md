@@ -17,9 +17,11 @@ Redux: A predictable state container for JavaScript apps.
 To run this project locally, follow these steps:
 1. Clone this repository to your local machine:
 ```
+https://github.com/m-murithi/http-states-feedback-with-redux.git
 ```
 2. Navigate to the project directory:
 ```
+cd http-states-feedback-with-redux
 ```
 3. Install the dependencies using npm:
 ```
